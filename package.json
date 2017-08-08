@@ -1,0 +1,10 @@
+{
+  "name": "sigras2000-parser",
+  "description": "A simple SIGRAS2000 coordinate parser (Montevideo Geographic Information System)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "proj4": "^2.4.3"
+  }
+}
